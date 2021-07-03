@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+}
+.blog{
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.blog h1{
+    color: red;
+    font-size: 40px;
+}
+img{
+    width: 50%;
+    margin: 0 auto;
+    height: 300px;
+}
